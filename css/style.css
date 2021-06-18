@@ -40,7 +40,6 @@ body{
     color: #5a5a5a;
 }
 .logo img{
-    background-color: red;
     transition: all 1s ease;
 }
 .logo img:hover{
